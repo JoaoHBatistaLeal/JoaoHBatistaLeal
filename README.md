@@ -9,7 +9,7 @@
 
 ## 🧰 My Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=go,aws,azure,vercel,git)
+![My Skills](https://skillicons.dev/icons?i=go,julia,python,git,github,aws,gcp,vercel,azure)
 
 ## 📊 GitHub Stats
 
